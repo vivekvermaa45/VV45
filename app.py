@@ -60,14 +60,15 @@ elif page == "Schedule Maker":
 # Module 4: Portfolio Page
 elif page == "My Portfolio":
     st.header("👨‍💻 My Portfolio")
-    st.subheader("Your Name")
+    st.subheader("Vivek Verma")
     st.write("""
     **Data Scientist & AI Enthusiast**
     
     This is my personal AI assistant project, showcasing my skills in Python, NLP, and building applications with LLMs.
     
-    **Skills:** Python, Data Analysis, Machine Learning, Streamlit, LLMs
-    **GitHub:** [your-github-url]
-    **Email:** youremail@example.com
+    **Skills:** Python, Data Analysis, Machine Learning, Streamli, LLMs
+    **GitHub:** https://github.com/vivekvermaa45
+    **Email:** vivekvermafzd460@gmail@example.com
     """)
     # You can add more details here later
+
