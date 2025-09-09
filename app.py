@@ -66,9 +66,12 @@ elif page == "My Portfolio":
     
     This is my personal AI assistant project, showcasing my skills in Python, NLP, and building applications with LLMs.
     
-    **Skills:** Python, Data Analysis, Machine Learning, Streamli, LLMs
+    **Skills:** Python, Data Analysis, Machine Learning, LLMs
+    
     **GitHub:** https://github.com/vivekvermaa45
-    **Email:** vivekvermafzd460@gmail@example.com
+    
+    **Email:** vivekvermafzd460@gmail.com
     """)
     # You can add more details here later
+
 
